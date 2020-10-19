@@ -17,6 +17,7 @@
     "reselect": "4.0.0"
   },
   "devDependencies": {
+    "prettier": "^2.1.2",
     "react-scripts": "3.0.0"
   },
   "resolutions": {
